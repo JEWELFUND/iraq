@@ -8,7 +8,7 @@ pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
 pkg install play-audio
-git clone https://github.com/Mohammadjan1122/iraq
+git clone https://github.com/JEWELFUND/iraq
 cd iraq
 pip install rich requests mechanize bs4 
 pip install futures
